@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
--e . #ensures setup.py runns everyitme a change is made to requiremnets.txt
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e . #ensures setup.py runns everyitme a change is made to requiremnets.txt
